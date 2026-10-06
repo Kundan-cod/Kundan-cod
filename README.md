@@ -1,78 +1,51 @@
 <div align="center">
 
-# 👋 Hi, I'm Mrityunjay Prasad Chaurasiya
+# <samp>Mrityunjay Prasad Chaurasiya_</samp>
 
-### CSE Student • Full-Stack Developer • AI/ML Enthusiast • Builder
+### `Full-Stack Developer` • `AI/ML Enthusiast` • `CSE Student`
 
-<p><em>Building intelligent systems. Turning ideas into products. Learning something new every day.</em></p>
+> **Turning ideas into impactful solutions...**
 
-[![GitHub](https://img.shields.io/badge/GitHub-Kundan--cod-181717?style=for-the-badge&logo=github)](https://github.com/Kundan-cod)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mrityunjay-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrityunjay-chaurasiya-488669319)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kundanchaurasiya839@gmail.com)
+[![GitHub](https://img.shields.io/badge/%3CGitHub%20/%3E-0b1020?style=for-the-badge&logo=github&logoColor=00e5ff)](https://github.com/Kundan-cod)
+[![LinkedIn](https://img.shields.io/badge/%3CLinkedIn%20/%3E-0b1020?style=for-the-badge&logo=linkedin&logoColor=00e5ff)](https://www.linkedin.com/in/mrityunjay-chaurasiya-488669319)
+[![Portfolio](https://img.shields.io/badge/%3CPortfolio%20/%3E-0b1020?style=for-the-badge&logo=googlechrome&logoColor=00e5ff)](https://github.com/Kundan-cod)
+[![Email](https://img.shields.io/badge/%3<Email%20/%3E-0b1020?style=for-the-badge&logo=gmail&logoColor=ff4fd8)](mailto:kundanchaurasiya839@gmail.com)
 
 </div>
 
 ---
 
-## ⚡ About Me
+## <span style="color:#00e5ff">⚡ Tech Stack</span>
 
-I'm a **Computer Science Engineering student** who enjoys turning ambitious ideas into useful software. I build across **AI/ML, full-stack development, data-driven applications and cloud-based products**.
-
-- 🔭 Building AI-powered applications and real-world software products
-- 🌊 Working on **FlashGuard** — a multi-source flood & landslide early-warning platform
-- 🏥 Building **MedCore HMS** — a modern hospital-management SaaS interface
-- 🧠 Exploring Generative AI, LLMs, system design and scalable software engineering
-- 💡 Interested in hackathons, open source and products with real-world impact
-- 📚 Strengthening **DSA, problem solving and software architecture**
-
-> **Build · Learn · Solve · Repeat**
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,react,nextjs,flask,tailwind,firebase,postgres,sqlite,git,github,docker&theme=dark" />
+</p>
 
 ---
 
-## 🚀 Featured Projects
-
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🌊 FlashGuard
-Pan-India flash-flood & landslide early-warning platform using multi-source environmental data, GIS and ML-based risk prediction.
+## 🔮 About Me
 
-**AI/ML · Geospatial · FastAPI · PostgreSQL**
+I'm a **Computer Science Engineering student** who loves building real-world projects using AI, full-stack technologies and data-driven solutions.
 
-<a href="https://github.com/Kundan-cod/FlashGuard-Pan-India-Early-Warning-Platform">View Repository →</a>
-
-</td>
-<td width="50%">
-
-### 🏥 MedCore HMS
-Modern multi-tenant Hospital Management SaaS interface focused on clean workflows, dashboards and scalable frontend architecture.
-
-**Next.js · React · TypeScript · SaaS**
-
-<a href="https://github.com/Kundan-cod/MedCore-HMS">View Repository →</a>
+- 🔭 Currently learning and building
+- 💻 Full-stack + AI/ML development
+- 🌊 Working on **FlashGuard**
+- 🏥 Building **MedCore HMS**
+- 🤖 Exploring GenAI & LLM applications
+- 🧩 Strengthening DSA & system design
 
 </td>
-</tr>
-<tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🩺 SmartTriage AI
-AI-powered clinical triage system for preliminary health-risk assessment and explainable decision support.
+## 📊 GitHub Stats
 
-**GenAI · Firebase · Gemini · HealthTech**
+<img src="https://github-readme-stats.vercel.app/api?username=Kundan-cod&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0b1020&title_color=00e5ff&icon_color=ff4fd8&text_color=c9d1d9" width="100%" />
 
-<a href="https://github.com/Kundan-cod/SmartTriageAI">View Repository →</a>
-
-</td>
-<td width="50%">
-
-### 📖 Cognitive Reader
-Adaptive reading assistant designed to summarize documents and improve learning from PDFs and long-form content.
-
-**Python · Flask · NLP · AI**
-
-<a href="https://github.com/Kundan-cod/Cognitive-Reader">View Repository →</a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kundan-cod&layout=compact&theme=tokyonight&hide_border=true&bg_color=0b1020&title_color=00e5ff&text_color=c9d1d9" width="100%" />
 
 </td>
 </tr>
@@ -80,72 +53,147 @@ Adaptive reading assistant designed to summarize documents and improve learning 
 
 ---
 
-## 🛠️ Tech Stack
+# <span style="color:#ff4fd8">🚀 Featured Projects</span>
 
-**Languages**
+<table>
+<tr>
+<td width="33%" valign="top">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+### 🌊 FlashGuard
 
-**Frontend & Backend**
+**Pan-India early-warning platform** for flash floods and landslides using multi-source environmental data, GIS and ML risk prediction.
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+`AI/ML` `Geospatial` `FastAPI` `PostgreSQL`
 
-**AI / Data / Cloud**
+**[View Repository →](https://github.com/Kundan-cod/FlashGuard-Pan-India-Early-Warning-Platform)**
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+</td>
+<td width="33%" valign="top">
 
-**Database & Tools**
+### 🏥 MedCore HMS
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+Modern **Hospital Management SaaS** interface with scalable frontend architecture, dashboards and healthcare workflows.
+
+`Next.js` `React` `TypeScript` `SaaS`
+
+**[View Repository →](https://github.com/Kundan-cod/MedCore-HMS)**
+
+</td>
+<td width="33%" valign="top">
+
+### 🩺 SmartTriage AI
+
+AI-powered **clinical triage and decision-support** system designed to classify risk and provide explainable guidance.
+
+`GenAI` `Gemini` `Firebase` `HealthTech`
+
+**[View Repository →](https://github.com/Kundan-cod/SmartTriageAI)**
+
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+
+### 📖 Cognitive Reader
+
+Adaptive reading assistant for **PDFs, summaries and learning workflows**.
+
+`Python` `Flask` `NLP` `AI`
+
+**[View Repository →](https://github.com/Kundan-cod/Cognitive-Reader)**
+
+</td>
+<td width="33%" valign="top">
+
+### 🏙️ Smart City Portal
+
+Digital civic-grievance platform focused on **location-aware complaints and tracking**.
+
+`Web` `GIS` `CivicTech`
+
+**[View Repository →](https://github.com/Kundan-cod/smart_public_complaint_system)**
+
+</td>
+<td width="33%" valign="top">
+
+### 🛒 ByteMart
+
+Modern **premium e-commerce experience** with a focus on polished UI and scalable web architecture.
+
+`Next.js` `E-commerce` `Frontend`
+
+**[View Repository →](https://github.com/Kundan-cod/ByteMart-Premium-E-Commerce-Platform)**
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📊 GitHub Stats
+## 🌌 Featured Projects — Neon View
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Kundan-cod&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kundan-cod&layout=compact&theme=tokyonight&hide_border=true" height="170" />
-<br><br>
-<img src="https://streak-stats.demolab.com?user=Kundan-cod&theme=tokyonight&hide_border=true" />
-</div>
+<p align="center">
+<a href="https://github.com/Kundan-cod/FlashGuard-Pan-India-Early-Warning-Platform"><img src="https://img.shields.io/badge/🌊_FlashGuard-AI%20%2F%20Geospatial-111827?style=for-the-badge&labelColor=06121f&color=00e5ff" /></a>
+<a href="https://github.com/Kundan-cod/MedCore-HMS"><img src="https://img.shields.io/badge/🏥_MedCore_HMS-Next.js%20%2F%20SaaS-111827?style=for-the-badge&labelColor=06121f&color=7c3aed" /></a>
+<a href="https://github.com/Kundan-cod/SmartTriageAI"><img src="https://img.shields.io/badge/🩺_SmartTriage_AI-GenAI%20%2F%20HealthTech-111827?style=for-the-badge&labelColor=06121f&color=ff4fd8" /></a>
+</p>
 
 ---
 
 ## 📈 Contribution Activity
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kundan-cod&theme=tokyo-night&hide_border=true&area=true" width="100%" />
-</div>
 
----
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kundan-cod&theme=tokyonight&hide_border=true&background=0b1020&ring=00e5ff&fire=ff4fd8&currStreakLabel=00e5ff" width="70%" />
 
-## 🎯 Currently Building
-
-| 🚀 Focus | 🔥 What I'm working on |
-|---|---|
-| 🌊 **FlashGuard** | Multi-source data pipelines, risk prediction and deployment reliability |
-| 🏥 **MedCore HMS** | Polished healthcare SaaS frontend and integration-ready architecture |
-| 🤖 **AI Applications** | Practical GenAI, LLM and intelligent automation ideas |
-| 🧩 **DSA & System Design** | Problem solving and placement preparation |
-
----
-
-## 💡 What I Love Building
-
-🤖 AI-powered products · 🌐 Full-stack applications · 📊 Data-driven systems · 🏆 Hackathon prototypes · 🌍 Real-world software
-
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/Let's_connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrityunjay-chaurasiya-488669319)
-[![Projects](https://img.shields.io/badge/Explore_my_projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kundan-cod?tab=repositories)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kundanchaurasiya839@gmail.com)
-
-### 🚀 *Build. Learn. Ship. Repeat.*
-
-![Profile Views](https://komarev.com/ghpvc/?username=Kundan-cod&style=flat-square&color=58A6FF)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kundan-cod&bg_color=0b1020&color=00e5ff&line=7c3aed&point=ff4fd8&area=true&hide_border=true" width="100%" />
 
 </div>
+
+---
+
+<table>
+<tr>
+<td width="55%" valign="top">
+
+## 🚀 Featured Projects
+
+- 🌊 **FlashGuard** — Geospatial / AI-ML
+- 🏥 **MedCore HMS** — Next.js / SaaS
+- 🩺 **SmartTriage AI** — GenAI / Healthcare
+- 📖 **Cognitive Reader** — NLP / Python
+
+</td>
+<td width="45%" valign="top">
+
+## 🎯 Currently Working On
+
+- 🌊 FlashGuard — ML & data pipeline
+- 🏥 MedCore HMS — frontend & integrations
+- 🤖 Practical AI applications
+- 🧩 DSA & system design
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🧠 My Developer Loop
+
+```text
+CODE  →  LEARN  →  BUILD  →  TEST  →  SHIP  →  REPEAT
+  ↑                                               ↓
+  └────────────── Keep improving ─────────────────┘
+```
+
+<p align="center">
+
+### <span style="color:#00e5ff">Build. Learn. Solve. Repeat.</span>
+
+[![Repositories](https://img.shields.io/badge/Repositories-Explore-0b1020?style=for-the-badge&logo=github&logoColor=00e5ff)](https://github.com/Kundan-cod?tab=repositories)
+[![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-0b1020?style=for-the-badge&logo=linkedin&logoColor=00e5ff)](https://www.linkedin.com/in/mrityunjay-chaurasiya-488669319)
+
+![Profile Views](https://komarev.com/ghpvc/?username=Kundan-cod&style=flat-square&color=00e5ff)
+
+</p>
