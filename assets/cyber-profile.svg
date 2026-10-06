@@ -1,0 +1,107 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="1740" viewBox="0 0 1200 1740">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#02040d"/><stop offset="0.5" stop-color="#07091b"/><stop offset="1" stop-color="#02030a"/></linearGradient>
+  <linearGradient id="cyan" x1="0" x2="1"><stop stop-color="#00f5ff"/><stop offset="1" stop-color="#00a6ff"/></linearGradient>
+  <linearGradient id="pink" x1="0" x2="1"><stop stop-color="#ff25d8"/><stop offset="1" stop-color="#8b5cff"/></linearGradient>
+  <linearGradient id="title" x1="0" x2="1"><stop stop-color="#00f5ff"/><stop offset="0.55" stop-color="#ffffff"/><stop offset="1" stop-color="#ff32dc"/></linearGradient>
+  <filter id="glowC"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <filter id="glowP"><feGaussianBlur stdDeviation="6" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse"><path d="M42 0H0V42" fill="none" stroke="#17204a" stroke-width="1" opacity=".55"/></pattern>
+  <clipPath id="avatarClip"><circle cx="1000" cy="180" r="115"/></clipPath>
+</defs>
+
+<rect width="1200" height="1740" rx="24" fill="url(#bg)"/>
+<rect x="0" y="0" width="1200" height="1740" fill="url(#grid)" opacity=".42"/>
+
+<!-- ambient neon -->
+<circle cx="1050" cy="120" r="210" fill="#632cff" opacity=".08" filter="url(#glowP)"/>
+<circle cx="120" cy="900" r="260" fill="#00eaff" opacity=".05" filter="url(#glowC)"/>
+
+<!-- HERO -->
+<rect x="28" y="28" width="1144" height="330" rx="18" fill="#050817" stroke="#00e5ff" stroke-width="2"/>
+<rect x="30" y="30" width="1140" height="5" rx="3" fill="url(#cyan)" filter="url(#glowC)"/>
+<circle cx="58" cy="62" r="7" fill="#ff315d"/><circle cx="82" cy="62" r="7" fill="#ffd12e"/><circle cx="106" cy="62" r="7" fill="#29f58b"/>
+<text x="58" y="105" fill="#c7d1ff" font-family="monospace" font-size="18">Hi there, 👋</text>
+<text x="58" y="158" fill="#ffffff" font-family="monospace" font-weight="700" font-size="39">Mrityunjay</text>
+<text x="58" y="203" fill="url(#title)" font-family="monospace" font-weight="700" font-size="39">Prasad Chaurasiya_</text>
+<text x="58" y="238" fill="#aab5d6" font-family="monospace" font-size="16">Full-Stack Developer  |  AI/ML Enthusiast  |  CSE Student</text>
+<text x="58" y="276" fill="#00f5ff" font-family="monospace" font-size="15">&gt; Turning ideas into impactful solutions...</text>
+<text x="58" y="316" fill="#7c82aa" font-family="monospace" font-size="14">$ build  •  $ learn  •  $ solve  •  $ repeat</text>
+
+<!-- cyber portrait / avatar integration -->
+<circle cx="1000" cy="180" r="130" fill="#090d22" stroke="#ff32dc" stroke-width="2" opacity=".9"/>
+<circle cx="1000" cy="180" r="121" fill="none" stroke="#00f5ff" stroke-width="2" opacity=".8"/>
+<image x="885" y="65" width="230" height="230" href="https://avatars.githubusercontent.com/u/176538916?v=4" clip-path="url(#avatarClip)" preserveAspectRatio="xMidYMid slice" opacity=".92"/>
+<path d="M870 286 Q1000 220 1130 286" fill="none" stroke="#00f5ff" stroke-width="3" filter="url(#glowC)"/>
+<text x="1115" y="112" fill="#00f5ff" font-family="monospace" font-size="12" text-anchor="end">CODE</text>
+<text x="1115" y="130" fill="#ff32dc" font-family="monospace" font-size="12" text-anchor="end">LEARN</text>
+<text x="1115" y="148" fill="#9c7cff" font-family="monospace" font-size="12" text-anchor="end">BUILD</text>
+<text x="1115" y="166" fill="#00f5ff" font-family="monospace" font-size="12" text-anchor="end">GROW</text>
+<text x="1115" y="184" fill="#ff32dc" font-family="monospace" font-size="12" text-anchor="end">REPEAT_</text>
+
+<!-- BUTTONS -->
+<a href="https://github.com/Kundan-cod"><rect x="58" y="335" width="120" height="34" rx="8" fill="#07111f" stroke="#00f5ff"/><text x="118" y="357" text-anchor="middle" fill="#00f5ff" font-family="monospace" font-size="13">&lt;GitHub /&gt;</text></a>
+<a href="https://www.linkedin.com/in/mrityunjay-chaurasiya-488669319"><rect x="188" y="335" width="120" height="34" rx="8" fill="#07111f" stroke="#00f5ff"/><text x="248" y="357" text-anchor="middle" fill="#00f5ff" font-family="monospace" font-size="13">&lt;LinkedIn /&gt;</text></a>
+<a href="mailto:kundanchaurasiya839@gmail.com"><rect x="318" y="335" width="105" height="34" rx="8" fill="#07111f" stroke="#ff32dc"/><text x="370" y="357" text-anchor="middle" fill="#ff32dc" font-family="monospace" font-size="13">&lt;Email /&gt;</text></a>
+
+<!-- TECH STACK -->
+<rect x="28" y="386" width="1144" height="128" rx="16" fill="#050817" stroke="#25305f"/>
+<text x="54" y="420" fill="#00f5ff" font-family="monospace" font-size="19" font-weight="700">⚙ TECH STACK</text>
+<g font-family="monospace" font-size="13" text-anchor="middle">
+<g fill="#0b1227" stroke="#00f5ff"><rect x="54" y="440" width="90" height="50" rx="8"/><rect x="154" y="440" width="90" height="50" rx="8"/><rect x="254" y="440" width="90" height="50" rx="8"/><rect x="354" y="440" width="90" height="50" rx="8"/><rect x="454" y="440" width="90" height="50" rx="8"/><rect x="554" y="440" width="90" height="50" rx="8"/><rect x="654" y="440" width="90" height="50" rx="8"/><rect x="754" y="440" width="90" height="50" rx="8"/><rect x="854" y="440" width="90" height="50" rx="8"/><rect x="954" y="440" width="90" height="50" rx="8"/></g>
+<text x="99" y="470" fill="#ffd84d">Python</text><text x="199" y="470" fill="#ff6bdf">Java</text><text x="299" y="470" fill="#8fb7ff">C/C++</text><text x="399" y="470" fill="#ffe14d">JavaScript</text><text x="499" y="470" fill="#61dafb">React</text><text x="599" y="470" fill="#fff">Next.js</text><text x="699" y="470" fill="#ff9f43">Flask</text><text x="799" y="470" fill="#5ee7ff">Tailwind</text><text x="899" y="470" fill="#ffb31a">Firebase</text><text x="999" y="470" fill="#64b5ff">Postgres</text>
+</g>
+
+<!-- ABOUT + STATS -->
+<rect x="28" y="542" width="558" height="318" rx="16" fill="#050817" stroke="#00f5ff" stroke-width="1.5"/>
+<text x="52" y="579" fill="#00f5ff" font-family="monospace" font-size="20" font-weight="700">🔵 About Me</text>
+<text x="52" y="616" fill="#c5cce6" font-family="monospace" font-size="14">I'm a CSE student who loves building real-world</text>
+<text x="52" y="639" fill="#c5cce6" font-family="monospace" font-size="14">projects using AI, full-stack technologies and</text>
+<text x="52" y="662" fill="#c5cce6" font-family="monospace" font-size="14">data-driven solutions.</text>
+<text x="52" y="705" fill="#00f5ff" font-family="monospace" font-size="14">●</text><text x="72" y="705" fill="#b8c2df" font-family="monospace" font-size="14">CSE Student</text>
+<text x="52" y="735" fill="#00f5ff" font-family="monospace" font-size="14">●</text><text x="72" y="735" fill="#b8c2df" font-family="monospace" font-size="14">Full-Stack Developer</text>
+<text x="52" y="765" fill="#ff32dc" font-family="monospace" font-size="14">●</text><text x="72" y="765" fill="#b8c2df" font-family="monospace" font-size="14">AI/ML &amp; GenAI enthusiast</text>
+<text x="52" y="795" fill="#ff32dc" font-family="monospace" font-size="14">●</text><text x="72" y="795" fill="#b8c2df" font-family="monospace" font-size="14">Building FlashGuard + MedCore HMS</text>
+<text x="52" y="825" fill="#8b5cff" font-family="monospace" font-size="14">●</text><text x="72" y="825" fill="#b8c2df" font-family="monospace" font-size="14">DSA &amp; system design for placements</text>
+
+<rect x="614" y="542" width="558" height="318" rx="16" fill="#050817" stroke="#ff32dc" stroke-width="1.5"/>
+<text x="638" y="579" fill="#ff32dc" font-family="monospace" font-size="20" font-weight="700">📊 GitHub Stats</text>
+<g fill="#090d22" stroke="#303a76"><rect x="638" y="604" width="250" height="88" rx="10"/><rect x="900" y="604" width="250" height="88" rx="10"/><rect x="638" y="706" width="250" height="88" rx="10"/><rect x="900" y="706" width="250" height="88" rx="10"/></g>
+<text x="660" y="635" fill="#00f5ff" font-family="monospace" font-size="13">TOTAL COMMITS</text><text x="660" y="670" fill="#fff" font-family="monospace" font-size="28" font-weight="700">300+</text>
+<text x="922" y="635" fill="#ff32dc" font-family="monospace" font-size="13">REPOSITORIES</text><text x="922" y="670" fill="#fff" font-family="monospace" font-size="28" font-weight="700">30+</text>
+<text x="660" y="737" fill="#00f5ff" font-family="monospace" font-size="13">TOTAL STARS</text><text x="660" y="772" fill="#fff" font-family="monospace" font-size="28" font-weight="700">100+</text>
+<text x="922" y="737" fill="#ff32dc" font-family="monospace" font-size="13">CONTRIBUTORS</text><text x="922" y="772" fill="#fff" font-family="monospace" font-size="28" font-weight="700">20+</text>
+
+<!-- PROJECTS -->
+<text x="28" y="910" fill="#ff32dc" font-family="monospace" font-size="22" font-weight="700">🚀 FEATURED PROJECTS</text>
+<g fill="#050817" stroke="#303a76" stroke-width="1.5">
+<rect x="28" y="935" width="360" height="210" rx="14"/><rect x="420" y="935" width="360" height="210" rx="14"/><rect x="812" y="935" width="360" height="210" rx="14"/>
+<rect x="28" y="1165" width="360" height="210" rx="14"/><rect x="420" y="1165" width="360" height="210" rx="14"/><rect x="812" y="1165" width="360" height="210" rx="14"/>
+</g>
+<g font-family="monospace">
+<text x="52" y="974" fill="#00f5ff" font-size="18" font-weight="700">🌊 FlashGuard</text><text x="52" y="1004" fill="#b9c2df" font-size="13">Pan-India flash-flood and landslide</text><text x="52" y="1025" fill="#b9c2df" font-size="13">early-warning platform.</text><text x="52" y="1062" fill="#ff32dc" font-size="12">AI/ML  •  Geospatial  •  FastAPI</text><a href="https://github.com/Kundan-cod/FlashGuard-Pan-India-Early-Warning-Platform"><text x="52" y="1105" fill="#00f5ff" font-size="12">VIEW REPOSITORY →</text></a>
+<text x="444" y="974" fill="#ff32dc" font-size="18" font-weight="700">🏥 MedCore HMS</text><text x="444" y="1004" fill="#b9c2df" font-size="13">Modern multi-tenant Hospital</text><text x="444" y="1025" fill="#b9c2df" font-size="13">Management SaaS platform.</text><text x="444" y="1062" fill="#00f5ff" font-size="12">Next.js  •  SaaS  •  Healthcare</text><a href="https://github.com/Kundan-cod/MedCore-HMS"><text x="444" y="1105" fill="#ff32dc" font-size="12">VIEW REPOSITORY →</text></a>
+<text x="836" y="974" fill="#8b5cff" font-size="18" font-weight="700">🩺 SmartTriage AI</text><text x="836" y="1004" fill="#b9c2df" font-size="13">AI-powered clinical triage and</text><text x="836" y="1025" fill="#b9c2df" font-size="13">explainable decision support.</text><text x="836" y="1062" fill="#00f5ff" font-size="12">GenAI  •  Gemini  •  Firebase</text><a href="https://github.com/Kundan-cod/SmartTriageAI"><text x="836" y="1105" fill="#8b5cff" font-size="12">VIEW REPOSITORY →</text></a>
+<text x="52" y="1204" fill="#00f5ff" font-size="18" font-weight="700">📖 Cognitive Reader</text><text x="52" y="1234" fill="#b9c2df" font-size="13">Adaptive reading assistant for PDFs</text><text x="52" y="1255" fill="#b9c2df" font-size="13">and learning workflows.</text><text x="52" y="1292" fill="#ff32dc" font-size="12">NLP  •  Python  •  AI</text><a href="https://github.com/Kundan-cod/Cognitive-Reader"><text x="52" y="1335" fill="#00f5ff" font-size="12">VIEW REPOSITORY →</text></a>
+<text x="444" y="1204" fill="#ff32dc" font-size="18" font-weight="700">🏙️ Smart City Portal</text><text x="444" y="1234" fill="#b9c2df" font-size="13">Digital civic-grievance management</text><text x="444" y="1255" fill="#b9c2df" font-size="13">and tracking platform.</text><text x="444" y="1292" fill="#00f5ff" font-size="12">Web  •  GIS  •  CivicTech</text><a href="https://github.com/Kundan-cod/smart_public_complaint_system"><text x="444" y="1335" fill="#ff32dc" font-size="12">VIEW REPOSITORY →</text></a>
+<text x="836" y="1204" fill="#8b5cff" font-size="18" font-weight="700">🛒 ByteMart</text><text x="836" y="1234" fill="#b9c2df" font-size="13">Premium e-commerce experience</text><text x="836" y="1255" fill="#b9c2df" font-size="13">with modern UI/UX.</text><text x="836" y="1292" fill="#00f5ff" font-size="12">Next.js  •  E-commerce  •  Frontend</text><a href="https://github.com/Kundan-cod/ByteMart-Premium-E-Commerce-Platform"><text x="836" y="1335" fill="#8b5cff" font-size="12">VIEW REPOSITORY →</text></a>
+</g>
+
+<!-- ACTIVITY + CURRENT -->
+<rect x="28" y="1410" width="730" height="235" rx="16" fill="#050817" stroke="#00f5ff"/>
+<text x="52" y="1447" fill="#00f5ff" font-family="monospace" font-size="19" font-weight="700">📈 GitHub Activity</text>
+<g fill="#0a1024"><rect x="52" y="1470" width="682" height="140" rx="10"/></g>
+<g fill="#1a3b45"><rect x="74" y="1494" width="15" height="15"/><rect x="96" y="1494" width="15" height="15"/><rect x="118" y="1516" width="15" height="15"/><rect x="140" y="1494" width="15" height="15"/><rect x="162" y="1538" width="15" height="15"/><rect x="184" y="1516" width="15" height="15"/><rect x="206" y="1494" width="15" height="15"/><rect x="228" y="1560" width="15" height="15"/><rect x="250" y="1538" width="15" height="15"/><rect x="272" y="1516" width="15" height="15"/><rect x="294" y="1494" width="15" height="15"/><rect x="316" y="1560" width="15" height="15"/><rect x="338" y="1538" width="15" height="15"/><rect x="360" y="1516" width="15" height="15"/><rect x="382" y="1494" width="15" height="15"/><rect x="404" y="1560" width="15" height="15"/><rect x="426" y="1538" width="15" height="15"/><rect x="448" y="1516" width="15" height="15"/><rect x="470" y="1494" width="15" height="15"/><rect x="492" y="1560" width="15" height="15"/><rect x="514" y="1538" width="15" height="15"/><rect x="536" y="1516" width="15" height="15"/><rect x="558" y="1494" width="15" height="15"/><rect x="580" y="1560" width="15" height="15"/><rect x="602" y="1538" width="15" height="15"/><rect x="624" y="1516" width="15" height="15"/><rect x="646" y="1494" width="15" height="15"/><rect x="668" y="1560" width="15" height="15"/></g>
+<text x="74" y="1630" fill="#6f789e" font-family="monospace" font-size="11">LOW</text><text x="690" y="1630" fill="#6f789e" font-family="monospace" font-size="11" text-anchor="end">HIGH</text>
+
+<rect x="786" y="1410" width="386" height="235" rx="16" fill="#050817" stroke="#ff32dc"/>
+<text x="810" y="1447" fill="#ff32dc" font-family="monospace" font-size="19" font-weight="700">🎯 Currently Working On</text>
+<text x="810" y="1485" fill="#00f5ff" font-family="monospace" font-size="13">🌊 FlashGuard</text><text x="925" y="1485" fill="#aab5d6" font-family="monospace" font-size="12">ML &amp; data pipeline</text>
+<text x="810" y="1520" fill="#ff32dc" font-family="monospace" font-size="13">🏥 MedCore HMS</text><text x="925" y="1520" fill="#aab5d6" font-family="monospace" font-size="12">frontend &amp; integrations</text>
+<text x="810" y="1555" fill="#8b5cff" font-family="monospace" font-size="13">🤖 AI apps</text><text x="925" y="1555" fill="#aab5d6" font-family="monospace" font-size="12">new ideas</text>
+<text x="810" y="1590" fill="#00f5ff" font-family="monospace" font-size="13">🧩 DSA</text><text x="925" y="1590" fill="#aab5d6" font-family="monospace" font-size="12">placements</text>
+
+<!-- FOOTER -->
+<text x="600" y="1690" text-anchor="middle" fill="url(#title)" font-family="monospace" font-size="20" font-weight="700">CODE → LEARN → BUILD → GROW → REPEAT_</text>
+<text x="600" y="1718" text-anchor="middle" fill="#596184" font-family="monospace" font-size="11">MRITYUNJAY PRASAD CHAURASIYA • KUNDAN-COD</text>
+</svg>
