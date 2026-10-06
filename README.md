@@ -1,27 +1,184 @@
-# 💫 About Me:
-Computer Science Engineering Student | Full Stack Developer | AI Enthusiast | Hackathon Innovator | Open Source Learner<br><br>🔭 I'm currently building AI-powered applications, Full Stack web platforms, and software solutions that solve real-world problems.<br><br>👯 I'm looking to collaborate on Open Source, AI/ML, Computer Vision, Full Stack Development, and innovative Hackathon projects.<br><br>🤝 I'm seeking opportunities to contribute to impactful projects and learn from experienced developers.<br><br>🌱 I'm currently exploring Generative AI, Large Language Models (LLMs), Cloud Computing, System Design, and Scalable Software Engineering.<br><br>💬 Ask me about Java, Python, C++, React, Next.js, Node.js, Firebase, REST APIs, Git, and AI Integration.<br><br>⚡ Fun fact: I enjoy transforming ambitious ideas into real-world products through code, creativity, and continuous learning.
+<div align="center">
 
+# 👋 Hey, I'm Mrityunjay Prasad Chaurasiya
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Kundan chaurasiya) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mr.kundan_chaurasiya) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Mrityunjay Prasad Chaurasiya) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@kundan079) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCgTf09zz-B_yewlUtoxKNOg) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kundanchaurasiya839@gmail.com) 
+### `CSE Student` · `Full-Stack Developer` · `AI/ML Enthusiast` · `Builder`
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white) ![Vitest](https://img.shields.io/badge/-Vitest-252529?style=for-the-badge&logo=vitest&logoColor=FCC72B) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Kundan-cod&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Kundan-cod&theme=ambient_gradient&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Kundan-cod&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+intelligent+systems.;Turning+ideas+into+real-world+products.;Learning%2C+building%2C+shipping.;AI+%7C+Full-Stack+%7C+Data+%7C+Cloud" alt="Typing SVG" />
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Kundan-cod&theme=blue-green&no-frame=false&no-bg=false&margin-w=4)
+[![GitHub](https://img.shields.io/badge/GitHub-Kundan--cod-181717?style=for-the-badge&logo=github)](https://github.com/Kundan-cod)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mrityunjay-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrityunjay-chaurasiya-488669319)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/Kundan-cod)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Kundan-cod&limit=5&theme=blue-green&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=Kundan-cod&icon=0&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## ⚡ About Me
+
+I'm a **Computer Science Engineering student** who enjoys turning ambitious ideas into useful software. I work across **AI/ML, full-stack development, data-driven applications, and cloud-based products**.
+
+- 🔭 Building AI-powered applications and real-world software products
+- 🌊 Working on **FlashGuard**, a multi-source flood & landslide early-warning platform
+- 🏥 Building **MedCore HMS**, a modern hospital-management SaaS interface
+- 🧠 Exploring Generative AI, LLMs, system design and scalable software engineering
+- 💡 Interested in hackathons, open source and products with real-world impact
+- 📚 Currently strengthening **DSA, problem solving and software architecture**
+
+> **Build · Learn · Solve · Repeat**
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+<h3>🌊 FlashGuard</h3>
+<p>Pan-India flash-flood & landslide early-warning platform using multi-source environmental data, GIS and ML-based risk prediction.</p>
+<p><b>AI/ML · Geospatial · FastAPI · PostgreSQL</b></p>
+<a href="https://github.com/Kundan-cod/FlashGuard-Pan-India-Early-Warning-Platform">View Repository →</a>
+</td>
+<td width="50%">
+<h3>🏥 MedCore HMS</h3>
+<p>Modern multi-tenant Hospital Management SaaS UI focused on clean workflows, dashboards and scalable frontend architecture.</p>
+<p><b>Next.js · React · TypeScript · SaaS</b></p>
+<a href="https://github.com/Kundan-cod/MedCore-HMS">View Repository →</a>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<h3>🩺 SmartTriage AI</h3>
+<p>AI-powered clinical triage system for preliminary health-risk assessment and explainable decision support.</p>
+<p><b>GenAI · Firebase · Gemini · HealthTech</b></p>
+<a href="https://github.com/Kundan-cod/SmartTriageAI">View Repository →</a>
+</td>
+<td width="50%">
+<h3>📖 Cognitive Reader</h3>
+<p>Adaptive reading assistant designed to summarize documents and improve learning from PDFs and long-form content.</p>
+<p><b>Python · Flask · NLP · AI</b></p>
+<a href="https://github.com/Kundan-cod/Cognitive-Reader">View Repository →</a>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<h3>🏙️ Smart City Grievance Portal</h3>
+<p>Location-aware civic grievance management concept for smarter reporting, tracking and resolution.</p>
+<p><b>Web · GIS · CivicTech</b></p>
+<a href="https://github.com/Kundan-cod/smart_public_complaint_system">View Repository →</a>
+</td>
+<td width="50%">
+<h3>🛒 ByteMart</h3>
+<p>Premium e-commerce platform concept focused on polished UI/UX, product discovery and modern web experiences.</p>
+<p><b>Next.js · E-commerce · Frontend</b></p>
+<a href="https://github.com/Kundan-cod/ByteMart-Premium-E-Commerce-Platform">View Repository →</a>
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+### Frontend & Backend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+### AI / Data / Cloud
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+
+### Database & Tools
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+---
+
+## 📊 GitHub at a Glance
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Kundan-cod&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kundan-cod&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=Kundan-cod&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kundan-cod&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+
+</div>
+
+---
+
+## 🎯 Currently Working On
+
+| Focus | What I'm doing |
+|---|---|
+| 🌊 **FlashGuard** | Improving multi-source data pipelines, risk prediction and deployment reliability |
+| 🏥 **MedCore HMS** | Building a polished healthcare SaaS frontend and integration-ready architecture |
+| 🤖 **AI Applications** | Exploring practical GenAI, LLM and intelligent automation ideas |
+| 🧩 **DSA & System Design** | Strengthening problem solving and placement preparation |
+
+---
+
+## 🏆 What I Like Building
+
+```text
+AI-powered products       ████████████████████  100%
+Full-stack applications    ██████████████████░░   90%
+Data-driven systems        ████████████████░░░░   80%
+Hackathon prototypes       ███████████████████░   95%
+Learning new technology    ████████████████████  100%
+```
+
+---
+
+## 🤝 Let's Connect
+
+I'm always interested in **interesting projects, hackathons, collaboration and ideas that can become real products**.
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/Let's_connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrityunjay-chaurasiya-488669319)
+[![GitHub](https://img.shields.io/badge/Explore_my_projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kundan-cod?tab=repositories)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kundanchaurasiya839@gmail.com)
+
+### 💡 *"Good software is built by curiosity, consistency and care."*
+
+![Profile Views](https://komarev.com/ghpvc/?username=Kundan-cod&style=flat-square&color=58A6FF)
+
+</div>
